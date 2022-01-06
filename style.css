@@ -1,0 +1,95 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size:35px;
+}
+h2{
+    font-size: 30px;
+}
+#lomba-dag{
+    border-left: 5px solid;
+    border-image: linear-gradient(skyblue,pink) ;
+    border-image-slice: 1;
+    border-image-outset: 10px;
+}
+
+.blue-color{
+    color:brown;
+}
+.bagh-mama{
+    display: flex;
+    margin-bottom: 100px;
+}
+.ordhek-ho{
+    width: 50%;
+   margin-left: 5%;
+   margin-right: 5%;
+    
+}
+.ordhek-ho img{
+width: 100%;
+border-radius: 20px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato) ;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+#moddhe-ja{
+    text-align: center;
+}
+.part{
+    margin: 6%;
+    
+}
+.vag-hobe{
+    width: 30%;
+    margin-left: 25px;
+    padding: 20px;
+    
+    border-radius: 20px;
+   
+}
+.vag-hobe img{
+    width: 40%;
+    margin-bottom: -30px;
+}
+#first-gf{
+    background-color: cyan;
+}
+#second-gf{
+    background-color: darkseagreen;
+ 
+}
+#third-gf{
+    background-color: darkviolet;
+}
+.side-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat ;
+    background-position: left;
+    background-size: 150px 150px;
+    margin-left: 20px;
+    
+}
+#mide-ja{
+    text-align: center;
+}
+
+#bolod-mamu{
+    text-align: center;
+    font-family: 'Brush Script MT', cursive;
+}
+footer{
+    text-align: center;
+    color: cornsilk;
+    background:blueviolet;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
